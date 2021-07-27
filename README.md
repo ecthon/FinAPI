@@ -1,5 +1,5 @@
 <div align="center">
-<img src="src/assets/capnode.png" alt="Banner">
+<img src="./src/assets/capnode.PNG" alt="Banner"/>
 </div>
 <br>
 <h1 align="center">Projeto FinAPI 💰</h1>
